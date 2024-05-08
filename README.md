@@ -3,8 +3,8 @@ Data handling, graphical representation of data, regression modelling and machin
 
 
 ## Files
-- `Computational Assignment - Sun's Wobble.ipynb`: The main code
-- `FluNetInteractiveReport.csv`: The data set used in the main code
+- `Assignment 2-AR.ipynb`: The main code.
+- `FluNetInteractiveReport.csv`: The data set used in the main code.
 
 ## Usage
-Simply run `Computational Assignment - Sun's Wobble.ipynb` and you are good to go.
+Simply download `FluNetInteractiveReport.csv` and `Assignment 2-AR.ipynb` and then run the main code and it should work.
